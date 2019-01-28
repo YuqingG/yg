@@ -1,0 +1,6 @@
+<p id="p0">Problem 0: We use the var statement to declare a
+variable and set it to a value.
+<script>
+var x = 100;
+</script>
+</p>
